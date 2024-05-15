@@ -329,7 +329,7 @@ Transform:
   m_GameObject: {fileID: 456112991}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 153.64148, y: 59.249695, z: 249.06528}
-  m_LocalScale: {x: 905.06476, y: 358.61194, z: 358.61194}
+  m_LocalScale: {x: 905.06476, y: 1190.8427, z: 358.61194}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -524,7 +524,7 @@ Canvas:
   m_RenderMode: 0
   m_Camera: {fileID: 0}
   m_PlaneDistance: 100
-  m_PixelPerfect: 0
+  m_PixelPerfect: 1
   m_ReceivesEvents: 1
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
@@ -641,7 +641,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1298636364}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 11500000, guid: c07479c1c5dca644bbf8b6c306054f32, type: 3}
+        m_TargetAssemblyTypeName: 
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1298636364
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -974,7 +986,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1875073022}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 11500000, guid: c07479c1c5dca644bbf8b6c306054f32, type: 3}
+        m_TargetAssemblyTypeName: 
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1875073022
 MonoBehaviour:
   m_ObjectHideFlags: 0

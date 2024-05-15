@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Mapa Going Up.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/UI Victoria.unity
+    guid: f4f8f72200efc2d458752ee390a0e01a
   m_configObjects: {}

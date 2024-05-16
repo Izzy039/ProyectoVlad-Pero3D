@@ -3,14 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Win : MonoBehaviour
+public class VictoryScreen : MonoBehaviour
 {
-    public void Menu ()
+    public void Menu()
     {
-        SceneManager.LoadScene(UI Titulo);
+        SceneManager.LoadScene("UI Titulo");
     }
 
-    public void OnApplicationQuit ()
+    public void OnApplicationQuit()
     {
         Application.Quit();
     }
